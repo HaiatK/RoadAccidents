@@ -1,6 +1,6 @@
 Project idea: Machine Learning-Based Road Accident Severity Prediction
 
-Problem
+Problem:
 Road accidents are a major public safety concern in Saudi Arabia. This project applies Machine Learning to predict accident severity and improve emergency response.
 
 Dataset:
